@@ -1,0 +1,6 @@
+{
+  "name": "Pure Soul Love",
+  "description": "A trusted relationship companion helping couples build deep, genuine connection, trust, respect, and responsibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
